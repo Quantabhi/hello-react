@@ -21,4 +21,4 @@ To view the project:
 3. Open the project in your browser — Vite will show you a local URL (like http://localhost:5173).
 
 ## 👉 Demo
-<video src="src\assets\hello.mp4" width="500" autoplay loop muted playsinline> </video>
+<video src="https://github.com/user-attachments/assets/af2207e0-d326-4e2c-a4b8-bd4325c7add7.mp4" width="500" autoplay loop muted playsinline></video>
