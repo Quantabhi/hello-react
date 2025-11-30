@@ -19,7 +19,7 @@ function App() {
       <div className="fixed inset-0 z-50 bg-black text-gray-100 flex flex-col items-center justify-center min-h-screen">
         <div className="mb-4 text-4xl font-mono font-bold ">
           <span>{text}</span>
-          <span className="animated-blink ml-1">|</span>
+          <span>|</span>
         </div>
         <div className="w-[200px] h-0.5 bg-gray-800 rounded overflow-hidden">
           <div className="w-[40%] h-full bg-blue-500 shadow-[0_0_15px_#3b82f6] animate-loading-bar" />
